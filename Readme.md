@@ -5,5 +5,5 @@
 - [Project2-Handcricket Notebook](Project2-Handcricket.py)
 - [Project3-VoiceAssistant](Project3-VoiceAssistant.md)
 - [Project3-VoiceAssistant Notebook](Project3-VoiceAssistant.py)
-- []()
-- []()
+- [Project4-Tic-Tac-Toe](Project4-Tic-Tac-Toe.md)
+- [Project4-Tic-Tac-Toe Notebook](Project4-Tic-Tac-Toe.ipynb)
