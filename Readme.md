@@ -1,4 +1,4 @@
-# Python Projects
+# Python-Projects
 - [Project1-Tkinter Notepad](Project1-TkinterNotepad.py)
 - [Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)
 - [Project2-Handcricket](Project2-Handcricket.md)
