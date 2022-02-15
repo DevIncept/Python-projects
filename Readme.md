@@ -10,4 +10,4 @@
 - [Project5-WeatherApp](Project5-WeatherApp.md)
 - [Project5-WeatherApp Notebook](Project5-WeatherApp.ipynb)
 - [Project6-DesktopAssistant](Project6-DesktopAssistant.md)
-- [Project6-DesktopAssistant](Project6-DesktopAssistant.py)
+- [Project6-DesktopAssistant Notebook](Project6-DesktopAssistant.py)
