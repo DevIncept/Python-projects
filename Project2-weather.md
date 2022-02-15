@@ -20,8 +20,3 @@ API stands for Application Programming Interface. API is actually some kind of i
 ## EXPECTED  OUTCOME: 
 
 Get the current weather updates about our Entered Location.
-
-
-## Team Name - Int-py-3
-- Chakshu 
-- Abhishek 
