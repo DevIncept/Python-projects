@@ -11,7 +11,7 @@
 <tr>
   <td>1</td>
   <td>Tkinter</td>
-  <td><a href="Tkinter.md">Explanatory Notebook</a></td>
+  <td><a href="Tkinter.html">Explanatory Notebook</a></td>
   <td>
     <ul>
       <li><a href="Project1-TkinterNotepad.py">Tkinter Notepad </a></li>
