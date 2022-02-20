@@ -1,7 +1,18 @@
 # Python-Projects
-|S.No|Notebook|Code|Video|
-|----|--------|----|-----|
-|1||<ol><li>[Project1-Tkinter Notepad](Project1-TkinterNotepad.py)<li>[Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)</ol>|[Video:Tkinter Notepad](https://youtu.be/4Gvj9szIElg)📹|
+<table>
+  <th>
+<td>S.No>
+  <td>Notebook
+  <td>Code
+  <td>Video
+  </th>
+  <tr>
+
+<td>1
+  <td></td>
+  <td>><ol><li>[Project1-Tkinter Notepad](Project1-TkinterNotepad.py)<li>[Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)</ol>
+    <td>[Video:Tkinter Notepad](https://youtu.be/4Gvj9szIElg)📹
+      </tr>
 
 - [Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)
 - [Project2-Handcricket](Project2-Handcricket.md)
