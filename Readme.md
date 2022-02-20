@@ -1,6 +1,8 @@
 # Python-Projects
-- [Project1-Tkinter Notepad](Project1-TkinterNotepad.py)
-- [Video:Tkinter Notepad](https://youtu.be/4Gvj9szIElg)📹
+|S.No|Notebook|Code|Video|
+|----|--------|----|-----|
+|1||<ol><li>[Project1-Tkinter Notepad](Project1-TkinterNotepad.py)<li>[Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)</ol>|[Video:Tkinter Notepad](https://youtu.be/4Gvj9szIElg)📹|
+
 - [Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)
 - [Project2-Handcricket](Project2-Handcricket.md)
 - [Video:Hand Cricket](https://youtu.be/k5eCb7aF6Go)📹
