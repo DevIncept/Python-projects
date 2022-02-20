@@ -12,7 +12,7 @@
   <td>1</td>
     <td></td>
   <td><ol><li><a href="Project1-TkinterNotepad.py">Project1-Tkinter Notepad </a><li><a href="Project1-TkinterNotepad.ipynb">Project1-Tkinter Notepad Notebook</a></ol>
-      <td><a href="https://youtu.be/4Gvj9szIElg" target="_blank"> Video:Tkinter Notepad</a>📹
+  <td><a href="https://youtu.be/4Gvj9szIElg" target="_blank"> Video:Tkinter Notepad</a>
       </tr>
 </table>
 - [Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)
