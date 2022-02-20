@@ -1,5 +1,5 @@
 # Python-Projects
-<table style="text-align:left">
+<table>
   <tr>
   <th>S.No</th>
     <th>Project Name</th>
@@ -8,7 +8,7 @@
   <th>Video</th>
   </tr>
   
-<tr>
+<tr style="text-align:left">
   <td>1</td>
   <td>Tkinter</td>
   <td><a href="Tkinter.html">Explanatory Notebook</a></td>
