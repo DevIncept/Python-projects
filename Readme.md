@@ -1,19 +1,20 @@
 # Python-Projects
 <table>
   <th>
-<td>S.No>
-  <td>Notebook
-  <td>Code
-  <td>Video
+  <td>S.No</td>
+  <td>Notebook</td>
+  <td>Code</td>
+  <td>Video</td>
   </th>
-  <tr>
-
-<td>1
+  
+<tr>
   <td></td>
-  <td>><ol><li>[Project1-Tkinter Notepad](Project1-TkinterNotepad.py)<li>[Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)</ol>
-    <td>[Video:Tkinter Notepad](https://youtu.be/4Gvj9szIElg)📹
+  <td>1</td>
+    <td></td>
+  <td><ol><li><a href="Project1-TkinterNotepad.py">Project1-Tkinter Notepad </a><li><a href="Project1-TkinterNotepad.ipynb">Project1-Tkinter Notepad Notebook</a></ol>
+      <td><a href="https://youtu.be/4Gvj9szIElg" target="_blank"> Video:Tkinter Notepad</a>📹
       </tr>
-
+</table>
 - [Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)
 - [Project2-Handcricket](Project2-Handcricket.md)
 - [Video:Hand Cricket](https://youtu.be/k5eCb7aF6Go)📹
