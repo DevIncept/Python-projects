@@ -56,7 +56,7 @@
   <tr style="text-align:left">
   <td>4</td>
   <td>Tic-Tac-Toe</td>
-  <td><a href="Tic-Tac-Toe.html">Explanatory Notebook</a></td>
+  <td><a href="TicTacToe.html">Explanatory Notebook</a></td>
   <td>
     <ul>
       <li><a href="Project4-Tic-Tac-Toe.md">Tic-Tac-Toe Code </a></li>
@@ -71,7 +71,7 @@
   <tr style="text-align:left">
   <td>5</td>
   <td>Weather Application</td>
-  <td><a href="Weather Application.html">Explanatory Notebook</a></td>
+  <td><a href="WeatherApplication.html">Explanatory Notebook</a></td>
   <td>
     <ul>
       <li><a href="Project5-WeatherApp.md">Weather Application Code </a></li>
