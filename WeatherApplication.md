@@ -63,8 +63,4 @@ api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 
 
 ## 📌 This Folder Contains a Markdown File That Explains WEATHER APIs In Python.
-### int-py-10 group comprises of three people.
-### Rohit Akilaysh Vanne and Rishabh Rathore compiling publishing the content in markdown file.
-### Komal Jangra working on video Presentation and Video recording.
-### Rohit Akilaysh Vanne handling video editing part.
 
