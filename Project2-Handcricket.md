@@ -39,15 +39,4 @@ To create Hand Cricket game Between User and AI
 ## Output
 ![Hand_Cricket](https://user-images.githubusercontent.com/85128689/127752679-8580ea75-b5c5-41e9-acb4-cf305838e322.png)
 
-<h1 align="center">Authors 👧👧👦 </h1> 
-
-<table>
-    <tr>
-        <td allign='centre'><a href = "https://github.com/manvitha3579"><img src = "https://user-images.githubusercontent.com/85128689/128643066-6f003346-858a-4653-8f00-d1d26e0b0490.png" height = "100px" width = "100px"/><br/><sub><b>Manvitha Chowdary Ramineni</b></sub></a></td>
-        <td allign='centre'><a href = "https://github.com/tanujadasari"><img src = "https://user-images.githubusercontent.com/85128689/128643122-1dcf5dbc-58b7-4f31-bc6c-8826a446dd81.png" height = "100px" width = "100px"/><br/><sub><b>Tanuja Dasari</b></sub></a></td>
-        <td allign='centre'><a href = "https://github.com/DurgaSai-16"><img src = "https://user-images.githubusercontent.com/85128689/128643449-d2d1499b-71be-4ed0-9dfb-c5151ecc3e3a.png" height = "100px" width = "100px"/><br/><sub><b>Durga Sai Nallani</b></sub></a></td>
-
-</tr>
-  </table>
-
  
