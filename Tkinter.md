@@ -65,9 +65,4 @@
 
 
 
-## **Done By:** 👧 👦
-||Name|
-|-|-|
-|1|[Lourde Mary.T]()|
-|2|[Pragya Khanna]()|
-|3|[Venkata Naga SaiPratheek Sriram]()|
+
