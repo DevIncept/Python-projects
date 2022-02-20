@@ -30,7 +30,7 @@
   <td>
     <ul>
       <li><a href="Project2-Handcricket.py">Handcricket Code </a></li>
-      <li><a href="Project2-Handcricket.md">Handcricket Notebook</a></li>
+      <li><a href="Project2-Handcricket.html">Handcricket Notebook</a></li>
     </ul>
   </td>
   <td>
@@ -45,7 +45,7 @@
   <td>
     <ul>
       <li><a href="Project3-VoiceAssistant.py">Voice Assistant Code </a></li>
-      <li><a href="Project3-VoiceAssistant.md">Voice Assistant Notebook</a></li>
+      <li><a href="Project3-VoiceAssistant.html">Voice Assistant Notebook</a></li>
     </ul>
   </td>
   <td>
@@ -59,7 +59,7 @@
   <td><a href="TicTacToe.html">Explanatory Notebook</a></td>
   <td>
     <ul>
-      <li><a href="Project4-Tic-Tac-Toe.md">Tic-Tac-Toe Code </a></li>
+      <li><a href="Project4-Tic-Tac-Toe.html">Tic-Tac-Toe Code </a></li>
       <li><a href="Project4-Tic-Tac-Toe.ipynb">Tic-Tac-Toe Notebook</a></li>
     </ul>
   </td>
@@ -74,7 +74,7 @@
   <td><a href="WeatherApplication.html">Explanatory Notebook</a></td>
   <td>
     <ul>
-      <li><a href="Project5-WeatherApp.md">Weather Application Code </a></li>
+      <li><a href="Project5-WeatherApp.html">Weather Application Code </a></li>
       <li><a href="Project5-WeatherApp.ipynb">Weather Application Notebook</a></li>
     </ul>
   </td>
@@ -90,7 +90,7 @@
   <td>
     <ul>
       <li><a href="Project6-DesktopAssistant.py">DesktopAssistant Code </a></li>
-      <li><a href="Project6-DesktopAssistant.md">DesktopAssistant Notebook</a></li>
+      <li><a href="Project6-DesktopAssistant.html">DesktopAssistant Notebook</a></li>
     </ul>
   </td>
   <td>
