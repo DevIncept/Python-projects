@@ -14,27 +14,88 @@
   <td><a href="Tkinter.html">Explanatory Notebook</a></td>
   <td>
     <ul>
-      <li><a href="Project1-TkinterNotepad.py">Tkinter Notepad </a></li>
-      <li><a href="Project1-TkinterNotepad.ipynb">Project1-Tkinter Notepad Notebook</a></li>
+      <li><a href="Project1-TkinterNotepad.py">Tkinter Code </a></li>
+      <li><a href="Project1-TkinterNotepad.ipynb">Tkinter Notebook</a></li>
     </ul>
   </td>
   <td>
-    <a href="https://youtu.be/4Gvj9szIElg" target="_blank"> Video:Tkinter Notepad</a>
+    <a href="https://youtu.be/4Gvj9szIElg" target="_blank">Tkinter Notepad</a>
+  </td>
+  </tr>
+</tr>
+  <tr style="text-align:left">
+  <td>2</td>
+  <td>Handcricket</td>
+  <td><a href="Project2-Handcricket.html">Explanatory Notebook</a></td>
+  <td>
+    <ul>
+      <li><a href="Project2-Handcricket.py">Handcricket Code </a></li>
+      <li><a href="Project2-Handcricket.md">Handcricket Notebook</a></li>
+    </ul>
+  </td>
+  <td>
+    <a href="https://youtu.be/k5eCb7aF6Go" target="_blank">Handcricket</a>
+  </td>
+</tr>
+  </tr>
+  <tr style="text-align:left">
+  <td>3</td>
+  <td>VoiceAssistant</td>
+  <td><a href="Project3-VoiceAssistant.html">Explanatory Notebook</a></td>
+  <td>
+    <ul>
+      <li><a href="Project3-VoiceAssistant.py">Voice Assistant Code </a></li>
+      <li><a href="Project3-VoiceAssistant.md">Voice Assistant Notebook</a></li>
+    </ul>
+  </td>
+  <td>
+    <a href="https://youtu.be/YNNg14sFqIY" target="_blank">VoiceAssistant</a>
+  </td>
+</tr>
+  </tr>
+  <tr style="text-align:left">
+  <td>4</td>
+  <td>Tic-Tac-Toe</td>
+  <td><a href="Tic-Tac-Toe.html">Explanatory Notebook</a></td>
+  <td>
+    <ul>
+      <li><a href="Project4-Tic-Tac-Toe.md">Tic-Tac-Toe Code </a></li>
+      <li><a href="Project4-Tic-Tac-Toe.ipynb">Tic-Tac-Toe Notebook</a></li>
+    </ul>
+  </td>
+  <td>
+    <a href="https://youtu.be/uORTB0Fb-_M" target="_blank">Tic-Tac-Toe</a>
+  </td>
+</tr>
+</tr>
+  <tr style="text-align:left">
+  <td>5</td>
+  <td>Weather Application</td>
+  <td><a href="Weather Application.html">Explanatory Notebook</a></td>
+  <td>
+    <ul>
+      <li><a href="Project5-WeatherApp.md">Weather Application Code </a></li>
+      <li><a href="Project5-WeatherApp.ipynb">Weather Application Notebook</a></li>
+    </ul>
+  </td>
+  <td>
+    <a href="https://youtu.be/JayM8zGfPyA" target="_blank">Weather Application</a>
+  </td>
+</tr>
+</tr>
+  <tr style="text-align:left">
+  <td>6</td>
+  <td>DesktopAssistant</td>
+  <td><a href="Project6-DesktopAssistant.html">Explanatory Notebook</a></td>
+  <td>
+    <ul>
+      <li><a href="Project6-DesktopAssistant.py">DesktopAssistant Code </a></li>
+      <li><a href="Project6-DesktopAssistant.md">DesktopAssistant Notebook</a></li>
+    </ul>
+  </td>
+  <td>
+    <a href="https://youtu.be/JayM8zGfPyA" target="_blank">DesktopAssistant</a>
   </td>
 </tr>
 </table>
-- [Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)
-- [Project2-Handcricket](Project2-Handcricket.md)
-- [Video:Hand Cricket](https://youtu.be/k5eCb7aF6Go)📹
-- [Project2-Handcricket Notebook](Project2-Handcricket.py)
-- [Project3-VoiceAssistant](Project3-VoiceAssistant.md)
-- [Video:Voice Assistant](https://youtu.be/YNNg14sFqIY)📹
-- [Project3-VoiceAssistant Notebook](Project3-VoiceAssistant.py)
-- [Project4-Tic-Tac-Toe](Project4-Tic-Tac-Toe.md)
-- [Video:Tic-Tac-Toe](https://youtu.be/uORTB0Fb-_M)📹
-- [Project4-Tic-Tac-Toe Notebook](Project4-Tic-Tac-Toe.ipynb)
-- [Project5-WeatherApp](Project5-WeatherApp.md)
-- [Video:Weather Application](https://youtu.be/JayM8zGfPyA)📹
-- [Project5-WeatherApp Notebook](Project5-WeatherApp.ipynb)
-- [Project6-DesktopAssistant](Project6-DesktopAssistant.md)
-- [Project6-DesktopAssistant Notebook](Project6-DesktopAssistant.py)
+
