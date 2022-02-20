@@ -10,9 +10,16 @@
 <tr>
   <td>1</td>
     <td></td>
-  <td><ol><li><a href="Project1-TkinterNotepad.py">Project1-Tkinter Notepad </a><li><a href="Project1-TkinterNotepad.ipynb">Project1-Tkinter Notepad Notebook</a></ol>
-  <td><a href="https://youtu.be/4Gvj9szIElg" target="_blank"> Video:Tkinter Notepad</a>
-      </tr>
+  <td>
+    <ol>
+      <li><a href="Project1-TkinterNotepad.py">Project1-Tkinter Notepad </a></li>
+      <li><a href="Project1-TkinterNotepad.ipynb">Project1-Tkinter Notepad Notebook</a></li>
+    </ol>
+  </td>
+  <td>
+    <a href="https://youtu.be/4Gvj9szIElg" target="_blank"> Video:Tkinter Notepad</a>
+  </td>
+</tr>
 </table>
 - [Project1-Tkinter Notepad Notebook](Project1-TkinterNotepad.ipynb)
 - [Project2-Handcricket](Project2-Handcricket.md)
