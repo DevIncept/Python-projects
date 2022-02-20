@@ -1,5 +1,5 @@
 # Python-Projects
-<table>
+<table style="text-align:left">
   <tr>
   <th>S.No</th>
     <th>Project Name</th>
