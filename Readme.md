@@ -2,6 +2,7 @@
 <table>
   <tr>
   <th>S.No</th>
+    <th>Project Name</th>
   <th>Notebook</th>
   <th>Code</th>
   <th>Video</th>
@@ -9,12 +10,13 @@
   
 <tr>
   <td>1</td>
-    <td></td>
+  <td>Tkinter</td>
+  <td><a href="Tkinter.md">Explanatory Notebook</a></td>
   <td>
-    <ol>
-      <li><a href="Project1-TkinterNotepad.py">Project1-Tkinter Notepad </a></li>
+    <ul>
+      <li><a href="Project1-TkinterNotepad.py">Tkinter Notepad </a></li>
       <li><a href="Project1-TkinterNotepad.ipynb">Project1-Tkinter Notepad Notebook</a></li>
-    </ol>
+    </ul>
   </td>
   <td>
     <a href="https://youtu.be/4Gvj9szIElg" target="_blank"> Video:Tkinter Notepad</a>
