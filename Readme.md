@@ -1,14 +1,13 @@
 # Python-Projects
 <table>
-  <th>
-  <td>S.No</td>
-  <td>Notebook</td>
-  <td>Code</td>
-  <td>Video</td>
-  </th>
+  <tr>
+  <th>S.No</th>
+  <th>Notebook</th>
+  <th>Code</th>
+  <th>Video</th>
+  </tr>
   
 <tr>
-  <td></td>
   <td>1</td>
     <td></td>
   <td><ol><li><a href="Project1-TkinterNotepad.py">Project1-Tkinter Notepad </a><li><a href="Project1-TkinterNotepad.ipynb">Project1-Tkinter Notepad Notebook</a></ol>
