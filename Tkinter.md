@@ -1,4 +1,4 @@
-<h1 align="center"> DevIncept Notepad :spiral_notepad: </h1>
+
 
 ## Aim :dart:
 
